@@ -1,0 +1,14 @@
+.stars {
+    display: flex;
+    justify-content: center;
+}
+
+.card-body-stars {
+    -webkit-padding-start: 0;
+            padding-inline-start: 0;
+}
+
+.text {
+    margin-top: 20px;
+    font-family: inherit;
+}
